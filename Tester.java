@@ -3,7 +3,7 @@ import java.lang.*;
 
 public class Tester {
     public static void main(String[] args) {
-        Ball ball = new Ball("Red", 20);
-        System.out.println(ball);
+        Book book = new Book("Oscar Wilde", 1890, 320);
+        System.out.println(book);
     }
 }
